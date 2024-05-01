@@ -1,5 +1,5 @@
 
-##MERN GIS Web Map Application
+# MERN GIS Web Map Application
 
 This project is a MERN (MongoDB, Express.js, React.js, Node.js) stack application that creates an interactive web map using Geographic Information System (GIS) data. The application consists of a backend built with Node.js and Express.js, a MongoDB database to store spatial data, and a frontend dashboard developed with React.js.
 

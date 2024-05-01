@@ -5,7 +5,7 @@ This project is a MERN (MongoDB, Express.js, React.js, Node.js) stack applicatio
 
 The dashboard has filters based on attribute and spatial data with inetractive and dynamic popups.
 
-![Outlook of App](https://github.com/Mseher/MERN-stack-Fitness-App/edit/main/filter_and_popup.jpg)
+![Outlook of App](https://github.com/Mseher/MERN-stack-Fitness-App/main/blob/filter_and_popup.jpg)
 
 
 **Installation**
